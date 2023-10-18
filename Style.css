@@ -1,0 +1,49 @@
+body{
+    background-color: antiquewhite;
+}
+
+.Logo{
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.Menu{
+background-color: bisque;
+height: 25px;
+text-align: center;
+}
+.Corpo{
+    background-color: blanchedalmond;
+    height: 900px;
+    margin: 0 auto;
+}
+.Rodape{
+    background-color: beige;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+button{
+  margin: 5px 5px 0 0;
+}
+
+h3{
+    background-color: red;
+  position: absolute;
+  margin: 10px 10px 10px 10px;
+}
+
+.Roupas{
+    margin: 10px 10px 10px 10px;
+}
+
+.roupasl{
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.Roupas img:hover{
+    transform: scale()(1.5);
+}
